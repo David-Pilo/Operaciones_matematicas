@@ -13,8 +13,8 @@ elif op == "multiplicacion":
 elif op == "division":
     resultado = Operaciones.dividir(a, b)
 else:
-    resultado = 0
     print("Operacion no reconocida")
+    resultado = None
 
-if resultado != 0:
+if resultado is not None:
     print(f"Resultado: {resultado}")
