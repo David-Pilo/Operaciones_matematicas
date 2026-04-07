@@ -1,5 +1,5 @@
 # Operaciones_matematicas
-Simple Calculator 
+
 Una calculadora básica y modular desarrollada en Python que permite realizar operaciones aritméticas fundamentales mediante la entrada de datos por consola. El proyecto está estructurado en módulos para separar la lógica de las operaciones de la interfaz de usuario.
 
 🚀 Características
